@@ -18,7 +18,7 @@ Este projeto visa coletar dados de um perfil específico no Instagram usando a *
 ## Links Importantes
 
 - **Código no Google Colab**: [Link para o Colab](#)
-- **Apresentação PowerPoint**: [Link para a Apresentação](#)
+- **Apresentação PowerPoint**: [Lfile:///C:/Users/User/Documents/GROWDEV%20-%20ENGENHARIA%20DE%20DADOS/Projeto1_Analise_Instagram_influencer/PROJETO%20I%20-%20ENGENHARIA%20DE%20DADOS%20-%20GROWDEV.pdf](#)
 
 ## Considerações Finais
 
