@@ -17,9 +17,9 @@ Este projeto visa coletar dados de um perfil específico no Instagram usando a *
 
 ## Links Importantes
 
-- **Código no Google Colab**: [Link para o Colab](file:///C:/Users/User/Documents/GROWDEV%20-%20ENGENHARIA%20DE%20DADOS/Projeto1_Analise_Instagram_influencer/PROJETO%20I%20-%20ENGENHARIA%20DE%20DADOS%20-%20GROWDEV.pdf)
-- **Apresentação PowerPoint**: [Link para o PowerPoint](#)
-
+- **Código no Google Colab**: [Link para o Colab](#)
+- **Apresentação PowerPoint**: [Link para o PowerPoint](file:///C:/Users/User/Documents/GROWDEV%20-%20ENGENHARIA%20DE%20DADOS/Projeto1_Analise_Instagram_influencer/PROJETO%20I%20-%20ENGENHARIA%20DE%20DADOS%20-%20GROWDEV.pdf)
+- 
 ## Considerações Finais
 
 Este projeto fornece uma abordagem prática para a coleta e análise de dados de perfis do Instagram, oferecendo insights valiosos sobre o desempenho do perfil de Marcito Castro. Ele permite uma visualização clara das métricas e facilita a análise das interações e tendências.
