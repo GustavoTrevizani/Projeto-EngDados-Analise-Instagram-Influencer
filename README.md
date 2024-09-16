@@ -19,7 +19,11 @@ Este projeto visa coletar dados de um perfil específico no Instagram usando a *
 
 - **Código no Google Colab**: [Link para o Colab](#)
 - **Apresentação PowerPoint**: [Link para o PowerPoint](https://drive.google.com/file/d/15qPT9m4zMbHmDACslXeI4pKbHSfBhk3z/view?usp=sharing)
-- 
+  
 ## Considerações Finais
 
 Este projeto fornece uma abordagem prática para a coleta e análise de dados de perfis do Instagram, oferecendo insights valiosos sobre o desempenho do perfil de Marcito Castro. Ele permite uma visualização clara das métricas e facilita a análise das interações e tendências.
+
+## Criador
+
+Gustavo Trevizani
