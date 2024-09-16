@@ -27,4 +27,4 @@ Este projeto fornece uma abordagem prática para a coleta e análise de dados de
 ## Criador
 
 Gustavo Trevizani
-- **Linkedin**: [Link para o Linkedin](www.linkedin.com/in/gustavo-trevizani-39135a2b7)
+- **Linkedin**: [Link para o Linkedin]([www.linkedin.com/in/gustavo-trevizani-39135a2b7](https://www.linkedin.com/in/gustavo-trevizani-39135a2b7))
