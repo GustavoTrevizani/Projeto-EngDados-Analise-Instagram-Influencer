@@ -17,7 +17,7 @@ Este projeto visa coletar dados de um perfil específico no Instagram usando a *
 
 ## Links Importantes
 
-- **Código no Google Colab**: [Link para o Colab](#)
+- **Código no Google Colab**: [Link para o Colab](https://github.com/GustavoTrevizani/Projeto-EngDados-Analise-Instagram-Influencer/blob/main/Projeto1_An%C3%A1lise_Instagram_influencer.ipynb)
 - **Apresentação PowerPoint**: [Link para o PowerPoint](https://drive.google.com/file/d/15qPT9m4zMbHmDACslXeI4pKbHSfBhk3z/view?usp=sharing)
   
 ## Considerações Finais
