@@ -13,6 +13,7 @@ Este projeto visa coletar dados de um perfil específico no Instagram usando a *
   - **Fotografias do Perfil**: Imagens do perfil, com uma requisição por dia.
   - **Últimas 24 Postagens**: Informações gerais das últimas 24 postagens, com duas requisições por dia.
   - **Última Postagem**: Detalhes da última postagem, incluindo comentários e dados gerais, com 17 requisições por dia.
+  - **Classificação dos comentários**: Classifica os comentários de uma postagem do influencer em: positivo, negativo, humor e neutro.
 
 ## Links Importantes
 
