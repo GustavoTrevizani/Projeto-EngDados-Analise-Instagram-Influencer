@@ -1,4 +1,4 @@
-# Projeto I de Engenharia de Dados sobre Analise do Instagram de Influencer
+# Projeto I de Engenharia de Dados sobre Análise do Instagram de Influencer
 
 ## Descrição
 
